@@ -17,7 +17,7 @@
 const accountId = 123                 // Number
 let accountName = "Anish"             // String
 let accountPassword = "101010"        // String
-accountCity = "Haryana"
+let accountCity = "Haryana"
 let accountState;                     // Undefined
 let phoneNumber = null;               // Null
 let isLoggedIn = true;                // Boolean 
