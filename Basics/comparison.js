@@ -1,9 +1,9 @@
 //** All Comparision like this will return True/False
 
-// console.log(2>=3);
-// console.log(2==3);
-// console.log(2>3);
-// console.log(2<3);
+console.log(2>=3);
+console.log(2==3);
+console.log(2>3);
+console.log(2<3);
 
 //** Data-Type Should be same for Comparision (MANDATORY)
 
